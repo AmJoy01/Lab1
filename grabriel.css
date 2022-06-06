@@ -1,0 +1,30 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2, h3{
+    color:#067525;
+    text-transform: uppercase;
+    grid-column: auto;
+}
+
+nav{
+    font-size: 20px;
+    text-align: right;
+}
+
+a{
+     text-decoration: none;
+ }
+
+ #project{
+     display: block;
+     max-width: 50%;
+  border: 1px solid #067525;
+  box-shadow: 0 10px 10px #067525;
+  margin-bottom: 1.25em;
+ }
+
+ #projectText{
+     font-size: 15px;
+ }
